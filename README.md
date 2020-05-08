@@ -1,6 +1,6 @@
 # CRUDOUTRA - Python
 
-**Written in core Python (No framework or third party tool is used).**
+**Written in core Python, no framework or third party ilbrary is used**
 ---------------------------------------------------------------------
 
 A very simple application for CRUD operations using the REST API.  
